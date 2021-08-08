@@ -6,7 +6,7 @@
 * .gitignore file to tell Git tool the things will be uploaded
 * README.md - this file itself to show the home-page of a repo
 ### About Project:
-* Is a basic phone e-commerce website with basic feature.
+* Is a basic book e-commerce website with basic feature.
 * There are java code for back-end and CSS/HTML/bootstrap for front-end
 * Website allow user to take over history shopping
 * Website allow admin role can create discount code 
